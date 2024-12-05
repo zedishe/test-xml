@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample RSS Feed</title>
+    <link>https://example.com</link>
+    <description>This is a sample RSS feed for testing purposes.</description>
+    <item>
+      <title>Breaking News: Technology Advances</title>
+      <link>https://example.com/news/1</link>
+      <description>
+        Scientists have announced a breakthrough in renewable energy technology, 
+        which could revolutionize the industry.
+      </description>
+      <pubDate>Mon, 04 Dec 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Global Economy Update</title>
+      <link>https://example.com/news/2</link>
+      <description>
+        The global economy is expected to grow by 3.2% next year, according to a recent report.
+      </description>
+      <pubDate>Sun, 03 Dec 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sports Highlights</title>
+      <link>https://example.com/news/3</link>
+      <description>
+        The national football team secured a historic victory in the championship final.
+      </description>
+      <pubDate>Sat, 02 Dec 2024 15:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
